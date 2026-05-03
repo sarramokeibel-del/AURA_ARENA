@@ -1,9 +1,9 @@
 # AURA_ARENA
 
-##TEAM MEMBERS:
+#TEAM MEMBERS:
 
-Sarra Salem Mokeibel
-Shaimaa Elsaied Mohammed
-Pola Fady 
-Febronia Marco
-Hisham Abo Saada
+1.Sarra Salem Mokeibel
+2.Shaimaa Elsaied Mohammed
+3.Pola Fady 
+4.Febronia Marco
+5.Hisham Abo Saada
